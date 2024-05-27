@@ -170,7 +170,7 @@ https://github.com/ValerioLyndon/Theme-Customiser
      top: -5px;
      bottom: -5px;
      right: -2px;
-     border: 2px solid rgb(255, 170, 0);
+     border: 2px solid rgb(255, 170, 0,0);
      border-radius: 6px;
      background: none !important;
      margin: 0;
@@ -185,7 +185,7 @@ https://github.com/ValerioLyndon/Theme-Customiser
      width: 26px;
      height: 26px;
      background: var(--content-background);
-     border: 2px solid rgb(255, 170, 0);
+     border: 2px solid rgb(255, 170, 0,0);
      border-radius: 50%;
      text-align: center;
      margin: 0;
