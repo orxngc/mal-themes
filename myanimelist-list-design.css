@@ -90,7 +90,39 @@ https://github.com/ValerioLyndon/Theme-Customiser
    =========*/
  
  
- 
+/**
+* Score colours 
+*/
+.score-1 {
+  color: #f38ba8;
+}
+.score-2 {
+  color: #f38ba8;
+}
+.score-3 {
+  color: #f38ba8;
+}
+.score-4 {
+  color: #f9e2af;
+}
+.score-5 {
+  color: #f9e2af;
+}
+.score-6 {
+  color: #f9e2af;
+}
+.score-7 {
+  color: #a6e3a1;
+}
+.score-8 {
+  color: #a6e3a1;
+}
+.score-9 {
+  color: #a6e3a1;
+}
+.score-10 {
+  color: #a6e3a1;
+}
  /**
   * Add Avatar
   * v1.0.0
