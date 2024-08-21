@@ -1,6 +1,6 @@
 /* Theme Customiser Settings
 https://github.com/ValerioLyndon/Theme-Customiser
-^TC{"data":"https://valeriolyndon.github.io/MAL-Public-List-Designs/Clarified Theme/clarified.json","options":{"theme":"dark","background":"https://github.com/orxngc/walls-catppuccin-mocha/blob/master/sakuraGate.jpg?raw=true","auxiliary-background":"https://github.com/orxngc/walls-catppuccin-mocha/blob/master/sakuraGate.jpg?raw=true","cover":"https://github.com/orxngc/walls-catppuccin-mocha/blob/master/harborCityView.jpg?raw=true"},"mods":{"list-width":{"width":"1250px"},"emoji-genres":{},"category-accents":{},"category-header-colours":{},"highlight-favourites":{"colour":"rgb(255, 170, 0)"},"switch-tags":{},"hover-images":{},"avatar":{"url":"https://i.postimg.cc/fRd5Zpvz/leaf.png"},"header-size":{"height":"300px"}},"theme":"Clarified"}TC$*/
+^TC{"data":"https://valeriolyndon.github.io/MAL-Public-List-Designs/Clarified Theme/clarified.json","options":{"theme":"dark","background":"https://raw.githubusercontent.com/orxngc/walls/main/misty-boat.jpg","auxiliary-background":"https://raw.githubusercontent.com/orxngc/walls/main/misty-boat.jpg","cover":"https://raw.githubusercontent.com/orxngc/walls/main/sakura-aura.jpg"},"mods":{"list-width":{"width":"1250px"},"emoji-genres":{},"category-accents":{},"category-header-colours":{},"highlight-favourites":{"colour":"rgb(255, 170, 0)"},"switch-tags":{},"hover-images":{},"avatar":{"url":"https://i.postimg.cc/fRd5Zpvz/leaf.png"},"header-size":{"height":"300px"}},"theme":"Clarified"}TC$*/
 
 /**
  * "Clarified" by Valerio Lyndon
@@ -79,9 +79,9 @@ https://github.com/ValerioLyndon/Theme-Customiser
    =========*/
  
  html:root {
-     --auxiliary-background: url(https://github.com/orxngc/walls-catppuccin-mocha/blob/master/sakuraGate.jpg?raw=true);
-     --background: url(https://github.com/orxngc/walls-catppuccin-mocha/blob/master/sakuraGate.jpg?raw=true);
-     --cover: url(https://github.com/orxngc/walls-catppuccin-mocha/blob/master/harborCityView.jpg?raw=true);}
+     --auxiliary-background: url(https://raw.githubusercontent.com/orxngc/walls/main/misty-boat.jpg);
+     --background: url(https://raw.githubusercontent.com/orxngc/walls/main/misty-boat.jpg);
+     --cover: url(https://raw.githubusercontent.com/orxngc/walls/main/sakura-aura.jpg);}
  
  
  
